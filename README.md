@@ -3,4 +3,3 @@
 MC-DLMA is a multi-channel medium access control (MAC) protocol for heterogeneous wirless networking. The underpinning technique of MC-DLMA is deep Q-network (DQN) in deep-reinforcement learning (DRL). 
 # About the benchmark.pdf
 We provide the detailed derivations for the optimal network throughput in various multi-channel heterogeneous scenarios. Then we use the optimal network throughput as the benchmark for our paper: MAC protocol for Multi-channel heterogeneous networks Based on Deep Reinforcement Learning. (Please use a VPN to make sure you can access this file.)
-# Well noted, if you read online and find the page cannot be loaded, please download it locally for reading.
