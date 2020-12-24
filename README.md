@@ -1,7 +1,7 @@
 # Please download this folder for reading.
 Please follow the steps below:
-   1. Click the green button ``Code'' on this page.
-   2. Click the button ``Download ZIP''.
+   1. Click the green button "Code" on this page.
+   2. Click the button "Download ZIP".
    3. Save the folder to any place you want on your computer.
    4. Find the folder you saved and unzip it for easy reading.
 # A introduction to MC-DLMA
